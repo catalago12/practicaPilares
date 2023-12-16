@@ -1,0 +1,13 @@
+.divHeader1{
+    background-color: aqua;
+}
+.divHeader2{
+    background-color: blue;
+}
+.footer{
+    background-color: blue;
+}
+main div{
+    display:flex;
+    justify-content: space-between;
+}
